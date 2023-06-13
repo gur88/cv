@@ -1,9 +1,8 @@
 # Aleksey Guryanov
 ## Expert Webflow Developer
 ### Contact information:
-- Phone: +7(911)394-85-44
 - E-mail: forwot08@gmail.com
-- Telegram: [@AlekseiGur][2]
+- Telegram: [@HelionEnergy][2]
 - [LinkedIn][1]
 
 ### About Me:
@@ -24,29 +23,19 @@ I am currently working with two studios on a part-time basis, as a website devel
 - VS Code
 - Gulp (Basic)
 - Webflow
-- Airtable
-- Zapier
-- Integromat
-- Memberstack
+- Gsap/Animate.js
 
-### Code example:
-```
-function capitalizeWord(word) {
-  word = word[0].toUpperCase() + word.slice(1);
-  return word;
-}
-```
 ### Experience:
 **Webflow Development**:
-
-- https://www.autocloud.dev/ - (MailChimp and Calendly integration, connecting SwiperJs)
-- https://www.cloudgraph.dev/ - (MailChimp integration)
-- https://www.neap.io/ - (Setting up a cms for the blog, connecting SwiperJs+CMS, some custom animations)
-- https://testfort-bd7ec1eef042c5cda19ca6cffbe53b.webflow.io/ - (Setting up a cms for the blog, MailChimp integration, editing a purchased template)
-
+- https://www.heyjuna.com/ - (CMS blog, Js/Css custom code, Animate on scroll, custom animation, Smooth Scroll)
+- https://www.assetario.com/ - (CMS blog, SwiperJs+CMS, Finsweet filter, Finsweet loadmore, Js/Css custom code, Smooth Scroll, Animate on scroll)
+- https://www.thefjx.com/ - (SwiperJs + custom js animate, Js/Css custom code, Animate on scroll, custom animate, Smooth Scroll)
+- https://www.alfafaces.com/ - (SwiperJs + custom js animate, Ion-rangeslider, Js/Css custom code, Animate on scroll, custom animate,)
+- https://osirisvr.webflow.io/ - (Video animate, Animate on scroll, custom animate, Smooth Scroll, Js/Css custom code, Preloader)
+- https://www.sonx.com/ - (Animate on scroll, JS/CSS custom code, Smooth Scroll)
+- https://www.treedis.com/ - (CMS Webflow (filters, sort, logic) for Blog/Careers/Product Pages, Finsweet (filter, pagination, cookie, tabs, modal), Custom marquee animation, Animate(gsap.js / anime.js), SwiperJs, JS/CSS custom code, Hubspot integration with Vimkit, Smooth Scroll)
 
 **HTML/CSS/JS**:
-
 - https://gur88.github.io/Example-01/ - Training project (HTML, CSS, JS, Flexbox, Grid, Slick-Slider, Swiper-Slider, InputMask)
 - https://gur88.github.io/Example-02/ - Training project (HTML, CSS, JS, Flexbox, Slick-Slider, Parallax effect, Preloader, InputMask)
 
@@ -60,8 +49,8 @@ function capitalizeWord(word) {
 - Russian - Native
 - English - A2
 
-[1]: https://www.linkedin.com/in/aleksey-guryanov-418628110/ "LinkedIn"
-[2]: https://t.me/AlekseiGur "@AlekseiGur"
+[1]: https://www.linkedin.com/in/aleksey-guryanov-webflow/ "LinkedIn"
+[2]: https://t.me/HelionEnergy "@HelionEnergy"
 [3]: https://www.udemy.com/course/webdeveloper/ "Udemy Web-Developer"
 [4]: https://www.udemy.com/course/javascript_full/ "Udemy JavaScript + React"
 [5]: https://university.webflow.com/certification-exams "Webflow Certifications"
