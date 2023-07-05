@@ -27,13 +27,13 @@ I am currently working with two studios on a part-time basis, as a website devel
 
 ### Experience:
 **Webflow Development**:
-- https://www.heyjuna.com/ - (CMS blog, Js/Css custom code, Animate on scroll, custom animation, Smooth Scroll)
-- https://www.assetario.com/ - (CMS blog, SwiperJs+CMS, Finsweet filter, Finsweet loadmore, Js/Css custom code, Smooth Scroll, Animate on scroll)
-- https://www.thefjx.com/ - (SwiperJs + custom js animate, Js/Css custom code, Animate on scroll, custom animate, Smooth Scroll)
-- https://www.alfafaces.com/ - (SwiperJs + custom js animate, Ion-rangeslider, Js/Css custom code, Animate on scroll, custom animate,)
-- https://osirisvr.webflow.io/ - (Video animate, Animate on scroll, custom animate, Smooth Scroll, Js/Css custom code, Preloader)
-- https://www.sonx.com/ - (Animate on scroll, JS/CSS custom code, Smooth Scroll)
-- https://www.treedis.com/ - (CMS Webflow (filters, sort, logic) for Blog/Careers/Product Pages, Finsweet (filter, pagination, cookie, tabs, modal), Custom marquee animation, Animate(gsap.js / anime.js), SwiperJs, JS/CSS custom code, Hubspot integration with Vimkit, Smooth Scroll)
+- [https://www.heyjuna.com/][7] - (CMS blog, Js/Css custom code, Animate on scroll, custom animation, Smooth Scroll)
+- [https://www.assetario.com/][8] - (CMS blog, SwiperJs+CMS, Finsweet filter, Finsweet loadmore, Js/Css custom code, Smooth Scroll, Animate on scroll)
+- [https://www.thefjx.com/][9] - (SwiperJs + custom js animate, Js/Css custom code, Animate on scroll, custom animate, Smooth Scroll)
+- [https://www.alfafaces.com/][10] - (SwiperJs + custom js animate, Ion-rangeslider, Js/Css custom code, Animate on scroll, custom animate,)
+- [https://osirisvr.webflow.io/][11] - (Video animate, Animate on scroll, custom animate, Smooth Scroll, Js/Css custom code, Preloader)
+- [https://www.sonx.com/][12] - (Animate on scroll, JS/CSS custom code, Smooth Scroll)
+- [https://www.treedis.com/][13] - (CMS Webflow (filters, sort, logic) for Blog/Careers/Product Pages, Finsweet (filter, pagination, cookie, tabs, modal), Custom marquee animation, Animate(gsap.js / anime.js), SwiperJs, JS/CSS custom code, Hubspot integration with Vimkit, Smooth Scroll)
 
 **HTML/CSS/JS**:
 - https://gur88.github.io/Example-01/ - Training project (HTML, CSS, JS, Flexbox, Grid, Slick-Slider, Swiper-Slider, InputMask)
@@ -55,3 +55,10 @@ I am currently working with two studios on a part-time basis, as a website devel
 [4]: https://www.udemy.com/course/javascript_full/ "Udemy JavaScript + React"
 [5]: https://university.webflow.com/certification-exams "Webflow Certifications"
 [6]: https://wayup.in/ "Wayup.in"
+[7]: https://www.heyjuna.com/
+[8]: https://www.assetario.com/
+[9]: https://www.thefjx.com/
+[10]: https://www.alfafaces.com/
+[11]: https://osirisvr.webflow.io/
+[12]: https://www.sonx.com/
+[13]: https://www.treedis.com/
