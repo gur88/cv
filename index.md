@@ -17,7 +17,6 @@ I am currently working with two studios on a part-time basis, as a website devel
 - HTML5
 - CSS3/SCSS/SASS/LESS
 - JavaScript (Basic)
-- Bootstrap, BEM
 - GIT
 - Figma
 - VS Code
