@@ -35,8 +35,8 @@ I am currently working with two studios on a part-time basis, as a website devel
 - [https://www.treedis.com/][13] - (CMS Webflow (filters, sort, logic) for Blog/Careers/Product Pages, Finsweet (filter, pagination, cookie, tabs, modal), Custom marquee animation, Animate(gsap.js / anime.js), SwiperJs, JS/CSS custom code, Hubspot integration with Vimkit, Smooth Scroll)
 
 **HTML/CSS/JS**:
-- https://gur88.github.io/Example-01/ - Training project (HTML, CSS, JS, Flexbox, Grid, Slick-Slider, Swiper-Slider, InputMask)
-- https://gur88.github.io/Example-02/ - Training project (HTML, CSS, JS, Flexbox, Slick-Slider, Parallax effect, Preloader, InputMask)
+- [https://gur88.github.io/Example-01/][14] - Training project (HTML, CSS, JS, Flexbox, Grid, Slick-Slider, Swiper-Slider, InputMask)
+- [https://gur88.github.io/Example-02/][15] - Training project (HTML, CSS, JS, Flexbox, Slick-Slider, Parallax effect, Preloader, InputMask)
 
 ### Сourses:
 - [Wayup.in][6] - Web Developer (HTML, CSS)
@@ -61,3 +61,5 @@ I am currently working with two studios on a part-time basis, as a website devel
 [11]: https://osirisvr.webflow.io/
 [12]: https://www.sonx.com/
 [13]: https://www.treedis.com/
+[14]: https://gur88.github.io/Example-01/
+[15]: https://gur88.github.io/Example-02/
