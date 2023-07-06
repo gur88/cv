@@ -26,7 +26,7 @@ I am currently working with two studios on a part-time basis, as a website devel
 
 ### Experience:
 **Webflow Development**:
-- [https://www.heyjuna.com/][7] - (CMS blog, Js/Css custom code, Animate on scroll, custom animation, Smooth Scroll)
+- [https://juna-example.webflow.io/][7] - (CMS blog, Js/Css custom code, Animate on scroll, custom animation, Smooth Scroll)
 - [https://www.assetario.com/][8] - (CMS blog, SwiperJs+CMS, Finsweet filter, Finsweet loadmore, Js/Css custom code, Smooth Scroll, Animate on scroll)
 - [https://www.thefjx.com/][9] - (SwiperJs + custom js animate, Js/Css custom code, Animate on scroll, custom animate, Smooth Scroll)
 - [https://www.alfafaces.com/][10] - (SwiperJs + custom js animate, Ion-rangeslider, Js/Css custom code, Animate on scroll, custom animate,)
@@ -54,7 +54,7 @@ I am currently working with two studios on a part-time basis, as a website devel
 [4]: https://www.udemy.com/course/javascript_full/ "Udemy JavaScript + React"
 [5]: https://university.webflow.com/certification-exams "Webflow Certifications"
 [6]: https://wayup.in/ "Wayup.in"
-[7]: https://www.heyjuna.com/
+[7]: https://juna-example.webflow.io/
 [8]: https://www.assetario.com/
 [9]: https://www.thefjx.com/
 [10]: https://www.alfafaces.com/
