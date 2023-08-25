@@ -41,7 +41,7 @@ I am currently working with two studios on a part-time basis, as a website devel
 - [Wayup.in][6] - Web Developer (HTML, CSS)
 - [Udemy.com][3] - Web Developer (HTML, CSS)
 - [Udemy.com][4] - JavaScript + React (In progress)
-- [Webflow.com][5] - Received all official certificates (Layout Level 1 (beta), Layout Level 2 (beta), CMS Level 1 (beta), Experts Certification exam (beta))
+- [Webflow.com][5] - Received all official certificates (Layouts Certification Exam Level 1, Layouts Certification Exam Level 2, CMS Certification Exam Level 1, Webflow 101 Certification Exam, Webflow Experts Certification Exam)
 
 ### Languages:
 - Russian - Native
