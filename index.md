@@ -23,6 +23,7 @@ I am currently working part-time with several studios as a Webflow website devel
 - Gulp (Basic)
 - Webflow
 - Gsap/Animate.js
+- ChatGPT
 
 ### Experience:
 **Webflow Development**:
