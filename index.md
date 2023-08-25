@@ -6,8 +6,9 @@
 - [LinkedIn][1]
 
 ### About Me:
-I am a certified Webflow developer, and I have the necessary knowledge to create high-quality, optimized, adaptive sites on Webflow. <br>
-I am currently working with two studios on a part-time basis, as a website developer on Webflow.
+I am a certified webflow developer with 2.5+ years of experience and have the necessary knowledge to create high quality optimized responsive websites on Webflow.
+I am currently working part-time with several studios as a Webflow website developer.
+
 - I like exciting and complex tasks;
 - I am a workaholic, which means that I immerse myself in work with my head;
 - I value integrity, quality, and honesty in my work.
