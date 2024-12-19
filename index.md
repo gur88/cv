@@ -53,9 +53,9 @@ I am currently working part-time with several studios as a Webflow website devel
 [6]: https://wayup.in/ "Wayup.in"
 [7]: https://www.odyssey.shaga.xyz/
 [8]: https://www.awwwards.com/sites/odyssey-controller
-[9]: https://www.sevenhillstechnology.com/
+[9]: https://www.54.agency/
 [10]: https://www.paradigm-solutions.io/
 [11]: https://fjx-example.webflow.io/
-[12]: https://www.54.agency/
+[12]: https://www.sevenhillstechnology.com/
 [15]: https://gur88.github.io/Example-01/
 [16]: https://gur88.github.io/Example-02/
