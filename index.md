@@ -25,11 +25,11 @@ I am currently working part-time with several studios as a Webflow website devel
 
 ### Experience:
 **Webflow Development**:
-- [https://www.odyssey.shaga.xyz/][7] - Site of the day [https://www.awwwards.com/sites/odyssey-controller][8] / (JS|CSS custom code, GSAP animation)
-- [https://www.54.agency/][9] / (CMS Blog|Services|Cases pages, SplideJs+CMS, JS|CSS custom code, GSAP|Webflow animation, Page Transition)
-- [https://www.paradigm-solutions.io/][10] / (CMS Services pages, SplideJs+CMS, Finsweet Filter, JS|CSS custom code, GSAP animation)
-- [https://fjx.webflow.io/][11] / (CMS Blog, SwiperJs + Custom js animate, JS|CSS custom code, Webflow animation)
-- [https://www.sevenhillstechnology.com/][12] / (CMS Blog|Services|Cases pages, Finsweet Filter + Sort, SplideJs+CMS, JS|CSS custom code, GSAP animation)
+- [https://www.odyssey.shaga.xyz/][7] - Site of the day [https://www.awwwards.com/sites/odyssey-controller][8] / (JS/CSS custom code, GSAP animation)
+- [https://www.54.agency/][9] / (CMS Blog/Services/Cases pages, SplideJs+CMS, JS/CSS custom code, GSAP/Webflow animation, Page Transition)
+- [https://www.paradigm-solutions.io/][10] / (CMS Services pages, SplideJs+CMS, Finsweet Filter, JS/CSS custom code, GSAP animation)
+- [https://fjx.webflow.io/][11] / (CMS Blog, SwiperJs + Custom js animate, JS/CSS custom code, Webflow animation)
+- [https://www.sevenhillstechnology.com/][12] / (CMS Blog/Services/Cases pages, Finsweet Filter + Sort, SplideJs+CMS, JS/CSS custom code, GSAP animation)
 
 **HTML/CSS/JS**:
 - [https://gur88.github.io/Example-01/][15] - Training project (HTML, CSS, JS, Flexbox, Grid, Slick-Slider, Swiper-Slider, InputMask)
