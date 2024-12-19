@@ -17,7 +17,7 @@ I am currently working part-time with several studios as a Webflow website devel
 ### Skills:
 - HTML5
 - CSS3/SCSS/SASS/LESS
-- JavaScript/Jquery (Basic)
+- JavaScript/Jquery
 - Figma
 - Webflow
 - Gsap/Animate.js
@@ -25,13 +25,11 @@ I am currently working part-time with several studios as a Webflow website devel
 
 ### Experience:
 **Webflow Development**:
-- [https://juna-example.webflow.io/][7] - (CMS blog, Js/Css custom code, Animate on scroll, custom animation, Smooth Scroll)
-- [https://www.assetario.com/][8] - (CMS blog, SwiperJs+CMS, Finsweet filter, Finsweet loadmore, Js/Css custom code, Smooth Scroll, Animate on scroll)
-- [https://www.thefjx.com/][9] - (SwiperJs + custom js animate, Js/Css custom code, Animate on scroll, custom animate, Smooth Scroll)
-- [https://www.alfafaces.com/][10] - (SwiperJs + custom js animate, Ion-rangeslider, Js/Css custom code, Animate on scroll, custom animate)
-- [https://www.metahorseunity.io/][11] - (SwiperJs+CMS, custom js animate with Fullpage.js scroll, Animate on scroll, custom animate, CMS Tabs, Js/Css custom code)
-- [https://osirisvr.webflow.io/][12] - (Video animate, Animate on scroll, custom animate, Smooth Scroll, Js/Css custom code, Preloader)
-- [https://www.treedis.com/][14] - (CMS Webflow (filters, sort, logic) for Blog/Careers/Product Pages, Finsweet (filter, pagination, cookie, tabs, modal), Custom marquee animation, Animate(gsap.js / anime.js), SwiperJs, JS/CSS custom code, Hubspot integration with Vimkit, Smooth Scroll)
+- [https://www.odyssey.shaga.xyz/][7] - Site of the day [https://www.awwwards.com/sites/odyssey-controller][8] / (JS|CSS custom code, GSAP animation)
+- [https://www.54.agency/][9] / (CMS Blog|Services|Cases pages, SplideJs+CMS, JS|CSS custom code, GSAP|Webflow animation, Page Transition)
+- [https://www.paradigm-solutions.io/][10] / (CMS Services pages, SplideJs+CMS, Finsweet Filter, JS|CSS custom code, GSAP animation)
+- [https://fjx.webflow.io/][11] / (CMS Blog, SwiperJs + Custom js animate, JS|CSS custom code, Webflow animation)
+- [https://www.sevenhillstechnology.com/][12] / (CMS Blog|Services|Cases pages, Finsweet Filter + Sort, SplideJs+CMS, JS|CSS custom code, GSAP animation)
 
 **HTML/CSS/JS**:
 - [https://gur88.github.io/Example-01/][15] - Training project (HTML, CSS, JS, Flexbox, Grid, Slick-Slider, Swiper-Slider, InputMask)
@@ -45,7 +43,7 @@ I am currently working part-time with several studios as a Webflow website devel
 
 ### Languages:
 - Russian - Native
-- English - A2
+- English - A1
 
 [1]: https://www.linkedin.com/in/aleksey-guryanov-webflow/ "LinkedIn"
 [2]: https://t.me/HelionEnergy "@HelionEnergy"
@@ -53,12 +51,11 @@ I am currently working part-time with several studios as a Webflow website devel
 [4]: https://www.udemy.com/course/javascript_full/ "Udemy JavaScript + React"
 [5]: https://university.webflow.com/certification-exams "Webflow Certifications"
 [6]: https://wayup.in/ "Wayup.in"
-[7]: https://juna-example.webflow.io/
-[8]: https://www.assetario.com/
-[9]: https://www.thefjx.com/
-[10]: https://www.alfafaces.com/
-[11]: https://www.metahorseunity.io/
-[12]: https://osirisvr.webflow.io/
-[14]: https://www.treedis.com/
+[7]: https://www.odyssey.shaga.xyz/
+[8]: https://www.awwwards.com/sites/odyssey-controller
+[9]: https://www.sevenhillstechnology.com/
+[10]: https://www.paradigm-solutions.io/
+[11]: https://fjx-example.webflow.io/
+[12]: https://www.54.agency/
 [15]: https://gur88.github.io/Example-01/
 [16]: https://gur88.github.io/Example-02/
